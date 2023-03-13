@@ -19,7 +19,7 @@ Add an a tag that links to data.html.
 
 Create the basic html, head and body tags in the data.html file.
 
-Add a table tag after the form.
+Add a table tag.
 - add a table head using the thead tag
  - add a single tr tag.
   - add a th tab that has a span of 2, using colspan="2", with the text "Table header"
