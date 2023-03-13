@@ -1,6 +1,7 @@
 
 We will be reusing the index.html file from last exercise.
-Start by editing the login.html file in this repo.
+
+Start by editing the index.html file in this repo.
 
 Add an a tag that links to login.html.
 Add an a tag that links to data.html.
